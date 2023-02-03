@@ -5,4 +5,4 @@ The Models used are:
 2. Logistic Regression
 3. Random Forest Tree
 
-Out of them the Logistic Regression model scored 78.468% Sucess.
+Out of them the Logistic Regression model scored 78.468% Success.

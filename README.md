@@ -1,4 +1,4 @@
-# Titanic-Classification
+# Titanic-Classification with APP
 
 The Models used are:
 1. Decision Tree
